@@ -1,1 +1,1 @@
-alert("mudasser hatajjjjj");
+import '../styles/styles.css'
